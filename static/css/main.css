@@ -1,0 +1,17 @@
+body {
+    background: rgb(247,255,143);
+    background: linear-gradient(90deg, rgba(247,255,143,1) 32%, rgba(75,225,255,1) 100%);
+      }
+    
+    p {
+      font-family: Georgia, serif;
+      font-size: 1.2em;
+      color: rgb(0, 0, 0);
+      }
+    
+    h1 {
+      font-family: Verdana, Geneva, sans-serif;
+      font-size: 2.5em;
+      color: rgb(0, 0, 0);
+      }
+    
